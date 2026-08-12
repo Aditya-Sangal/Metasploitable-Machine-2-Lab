@@ -1,4 +1,4 @@
-# Metasploitable 2 — Penetration Testing Writeup
+# Metasploitable 2 - Penetration Testing Writeup
 
 ## 1. Overview
 
