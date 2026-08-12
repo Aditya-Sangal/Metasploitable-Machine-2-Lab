@@ -41,8 +41,6 @@ The target exposed a number of services, providing multiple potential attack sur
 
 3306/tcp open  mysql  MySQL 5.0.51a-3ubuntu5
 
-\
-
 ---
 
 ## 3. MySQL Enumeration
@@ -190,8 +188,6 @@ sudo -i
         ↓
 
 ROOT
-
-\
 
 ---
 
